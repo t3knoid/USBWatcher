@@ -1,0 +1,10 @@
+C:\Users\A0728365\Workarea\testusbwatcher\TestUSBWatcher\bin\Debug\TestUSBWatcher.exe.config
+C:\Users\A0728365\Workarea\testusbwatcher\TestUSBWatcher\bin\Debug\TestUSBWatcher.exe
+C:\Users\A0728365\Workarea\testusbwatcher\TestUSBWatcher\bin\Debug\TestUSBWatcher.pdb
+C:\Users\A0728365\Workarea\testusbwatcher\TestUSBWatcher\obj\Debug\TestUSBWatcher.csproj.AssemblyReference.cache
+C:\Users\A0728365\Workarea\testusbwatcher\TestUSBWatcher\obj\Debug\TestUSBWatcher.Form1.resources
+C:\Users\A0728365\Workarea\testusbwatcher\TestUSBWatcher\obj\Debug\TestUSBWatcher.Properties.Resources.resources
+C:\Users\A0728365\Workarea\testusbwatcher\TestUSBWatcher\obj\Debug\TestUSBWatcher.csproj.GenerateResource.cache
+C:\Users\A0728365\Workarea\testusbwatcher\TestUSBWatcher\obj\Debug\TestUSBWatcher.csproj.CoreCompileInputs.cache
+C:\Users\A0728365\Workarea\testusbwatcher\TestUSBWatcher\obj\Debug\TestUSBWatcher.exe
+C:\Users\A0728365\Workarea\testusbwatcher\TestUSBWatcher\obj\Debug\TestUSBWatcher.pdb
